@@ -73,9 +73,9 @@ pytest -v
 
 setup commands -
 
-'''bash
+```bash
 pip install -e .
-''' 
+``` 
 
 build your own package commands-
 
